@@ -27,4 +27,4 @@ Unity 2018 (Made with Unity 2018.3.0f2)
 ## Download Package ##
 [Package](https://github.com/Putragonist/Drawing_Template_Unity/tree/master/Assets/putragonist_drawing_game/Package)
 
-Copyright @ Putragonist
+Copyright @ Muhammad Ihsan Diputra
